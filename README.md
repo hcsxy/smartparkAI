@@ -1,4 +1,4 @@
-# 海创科技城 · AI 驱动的智慧园区操作系统 (Smart Park AIoT Platform)
+# 智慧园区 · AI 驱动的智慧园区操作系统 (Smart Park AIoT Platform)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![AI](https://img.shields.io/badge/AI-Edge%20Inference-red)](https://www.tensorflow.org/)
