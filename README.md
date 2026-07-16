@@ -111,7 +111,19 @@
 | 链路追踪 | SkyWalking | 9.4.0 | 分布式调用链分析 |
 
 ---
+## ⚡ 系统界面
 
+![alt text](3ee968eafe0d34c3eb8832be5ad6ee90.png)
+![alt text](249dd7df84626721014e7626c23b734d.png)
+![alt text](da87b6ca71b0801c8b00d785d33b3b5d.png)
+![alt text](f60134d499c54fc28ba44596617eb01e.png)
+![alt text](6b4babaa143b2454a2a10b5663a2760b.png)
+![alt text](c028fa6a5fab6027680fd7b0f648608e.png)
+![alt text](16400d1a4af562dbcd99c4bf68fbd8a0.png)
+![alt text](f5ac66f5bae9b59f6604c6cdc48f39fe.png)
+![alt text](94d9b93d64fc2f6b8d0c191b734dba3a.png)
+![alt text](c81b7854d2003e0eae17814231e7652d.png)
+![alt text](e17363f6ba43aff27e7d6b9536a36d40.png)
 ## ⚡ 极速开始 (Quick Start)
 
 ```bash
@@ -133,3 +145,12 @@ cd ../frontend-admin
 npm install && npm run dev
 
 # 5. 小程序用微信开发者工具打开 wechat-miniprogram 目录
+| 服务类型 | 适用场景 | 交付内容 |
+| :--- | :--- | :--- |
+| **源码授权** | 大型集团/国企自建团队二次开发 | 全量源码 + 数据库设计 + 部署脚本 |
+| **SaaS 云租用** | 中小园区/写字楼快速上线 | 开箱即用，按年订阅，免运维 |
+| **AI 算法定制** | 特殊场景（如特定工业行为检测） | 数据标注 → 模型训练 → 边缘盒子部署 |
+| **私有化定制** | 深度改造/信创国产化适配 | 驻场开发 + 验收交付 |
+
+📞 **商务邮箱**：`1142855447@qq.com`  
+📱 **咨询电话**：`400-xxx-xxxx`
