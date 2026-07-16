@@ -1,0 +1,172 @@
+{
+  "pages": [
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationBarTitleText": "登录"
+      }
+    },
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "智慧园区"
+      }
+    },
+    {
+      "path": "pages/visitor/my",
+      "style": {
+        "navigationBarTitleText": "访客邀请"
+      }
+    },
+    {
+      "path": "pages/visitor/invite",
+      "style": {
+        "navigationBarTitleText": "邀请访客"
+      }
+    },
+    {
+      "path": "pages/parking/pay",
+      "style": {
+        "navigationBarTitleText": "停车缴费"
+      }
+    },
+    {
+      "path": "pages/repair/repair",
+      "style": {
+        "navigationBarTitleText": "扫码报修"
+      }
+    },
+    {
+      "path": "pages/repair/my",
+      "style": {
+        "navigationBarTitleText": "我的报修"
+      }
+    },
+    {
+      "path": "pages/parking/monthly",
+      "style": {
+        "navigationBarTitleText": "月卡续费"
+      }
+    },
+    {
+      "path": "pages/parking/find",
+      "style": {
+        "navigationBarTitleText": "反向寻车"
+      }
+    },
+    {
+      "path": "pages/access/record",
+      "style": {
+        "navigationBarTitleText": "通行记录"
+      }
+    },
+    {
+      "path": "pages/enterprise/list",
+      "style": {
+        "navigationBarTitleText": "企业查询"
+      }
+    },
+    {
+      "path": "pages/notice/list",
+      "style": {
+        "navigationBarTitleText": "园区公告"
+      }
+    },
+    {
+      "path": "pages/notice/detail",
+      "style": {
+        "navigationBarTitleText": "公告详情"
+      }
+    },
+    {
+      "path": "pages/energy/bill",
+      "style": {
+        "navigationBarTitleText": "能耗账单"
+      }
+    },
+    {
+      "path": "pages/meeting/list",
+      "style": {
+        "navigationBarTitleText": "会议室预约"
+      }
+    },
+    {
+      "path": "pages/meeting/book",
+      "style": {
+        "navigationBarTitleText": "预约会议室"
+      }
+    },
+    {
+      "path": "pages/meeting/my",
+      "style": {
+        "navigationBarTitleText": "我的预约"
+      }
+    },
+    {
+      "path": "pages/notify/list",
+      "style": {
+        "navigationBarTitleText": "消息通知"
+      }
+    },
+    {
+      "path": "pages/portal/services",
+      "style": {
+        "navigationBarTitleText": "园区服务"
+      }
+    },
+    {
+      "path": "pages/portal/wifi",
+      "style": {
+        "navigationBarTitleText": "连接WiFi"
+      }
+    },
+    {
+      "path": "pages/mine/mine",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+      "path": "pages/safety/report",
+      "style": {
+        "navigationBarTitleText": "隐患上报"
+      }
+    },
+    {
+      "path": "pages/safety/my",
+      "style": {
+        "navigationBarTitleText": "我的上报"
+      }
+    }
+  ],
+  "tabBar": {
+    "color": "#909399",
+    "selectedColor": "#1b4b91",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/portal/services",
+        "text": "服务"
+      },
+      {
+        "pagePath": "pages/notify/list",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的"
+      }
+    ]
+  },
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "海创科技城智慧园区",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F5F5F5"
+  }
+}

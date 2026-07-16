@@ -1,0 +1,16 @@
+{
+  "name": "smart-park-miniapp",
+  "version": "1.0.0",
+  "description": "海创科技城智慧园区小程序",
+  "main": "main.js",
+  "scripts": {
+    "info": "echo 'uni-app 项目请使用 HBuilderX 或微信开发者工具打开'"
+  },
+  "keywords": [
+    "uniapp",
+    "小程序",
+    "智慧园区"
+  ],
+  "author": "",
+  "license": "MIT"
+}
